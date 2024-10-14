@@ -40,7 +40,7 @@ const App = () => {
           onChange={(e) => setUsername(e.target.value)}
           placeholder="Enter GitHub username"
           className="p-2 border rounded-md outline-none"/>
-        <button onClick={handleSearch} className="ml-2 px-4 py-2 bg-blue-600 text-white rounded-md">
+        <button disabled={loading} onClick={handleSearch} className="ml-2 px-4 py-2 bg-blue-600 text-white rounded-md">
           Search
         </button>
       </div>
