@@ -12,4 +12,4 @@ A web application that allows you to visualize and explore your Github profile d
 
 ## Demo
 
-Check out the live demo: [Github Profile Visualizer](https://your-live-demo-url.com)
+Check out the live demo: [Github Profile Visualizer](https://github-visualizer-nine.vercel.app/)
